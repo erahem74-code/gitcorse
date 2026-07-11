@@ -1,0 +1,2 @@
+# gitcorse
+all
